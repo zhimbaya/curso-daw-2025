@@ -12,8 +12,11 @@ Este es nuestro repositorio del segundo año en DAW a distancia. Dejo aquí todo
 > ##### Si consideras útil este curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Index
-- [Desarrollo de Interfaces Web](DESARROLLO_INTERFACES_WEB)
-- 
+- [Digitalización aplicada a los sectores productivos (GS)](DIGITALIZACION)
+- [Sostenibilidad aplicada al sistema productivo](SOSTENIBILIDAD)
+- [Módulo profesional optativo I](MODULO_OPTATIVO_PYTHON)
+- [Módulo profesional optativo II](MODULO_OPTATIVO_CLOUD)
+- [Itinerario personal para la empleabilidad I y II](EMPLEABILIDAD)
 
 
 🤩 Enjoy it!
