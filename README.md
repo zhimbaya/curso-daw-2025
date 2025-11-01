@@ -2,7 +2,7 @@
 # Curso de Desarrollo de Aplicaciones Web a Distancia por IES Virgen de la Paz 2025
 [![GitHub](https://img.shields.io/badge/IESVP-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://www.educa2.madrid.org/web/centro.ies.lapaz.alcobendas)
 
-![](_PRESENTACION_DAW_2/iesvp.png)
+![](_PRESENTACION_DAW/iesvp.png)
 
 💻 Repositorio del curso de Desarrollo de Aplicaciones Web a distancia.👨🏻‍🎓
 
@@ -14,9 +14,9 @@ Este es nuestro repositorio del segundo año en DAW a distancia. Dejo aquí todo
 ## Index
 - [Digitalización aplicada a los sectores productivos (GS)](DIGITALIZACION)
 - [Sostenibilidad aplicada al sistema productivo](SOSTENIBILIDAD)
-- [Módulo profesional optativo I](MODULO_OPTATIVO_PYTHON)
-- [Módulo profesional optativo II](MODULO_OPTATIVO_CLOUD)
-- [Itinerario personal para la empleabilidad I y II](EMPLEABILIDAD)
+- [Módulo profesional optativo I (Python)](MODULO_OPTATIVO_PYTHON)
+- [Módulo profesional optativo II (Cloud)](MODULO_OPTATIVO_CLOUD)
+- [Proyecto intermodular de desarrollo de aplicaciones web](PROYECTO)
 
 
 🤩 Enjoy it!
