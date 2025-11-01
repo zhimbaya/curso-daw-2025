@@ -2,7 +2,7 @@
 # Curso de Desarrollo de Aplicaciones Web a Distancia por IES Virgen de la Paz 2025
 [![GitHub](https://img.shields.io/badge/IESVP-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://www.educa2.madrid.org/web/centro.ies.lapaz.alcobendas)
 
-![](_PRESENTACION_DAW/iesvp.png)
+![](_PRESENTACION_DAW_/iesvp.png)
 
 💻 Repositorio del curso de Desarrollo de Aplicaciones Web a distancia.👨🏻‍🎓
 
