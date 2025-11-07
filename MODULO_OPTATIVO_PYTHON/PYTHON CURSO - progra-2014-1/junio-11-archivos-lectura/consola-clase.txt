@@ -1,0 +1,79 @@
+Python 2.7.2 (default, Jun 12 2011, 15:08:59) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Hola mundo.
+
+>>> linea
+'Hola mundo.\n'
+>>> linea.strip()
+'Hola mundo.'
+>>> linea.strip('H')
+'ola mundo.\n'
+>>> linea.strip('o')
+'Hola mundo.\n'
+>>> 
+>>> 
+>>> 
+>>> linea
+'Hola mundo.\n'
+>>> linea.strip()
+'Hola mundo.'
+>>> 'hohahoha'.replace('h', '')
+'oaoa'
+>>> 'hohahoha'.replace('h', 'x')
+'xoxaxoxa'
+>>> ================================ RESTART ================================
+>>> 
+Hola mundo.
+123 probando.
+
+Hoy aprenderemos archivos.
+>>> ================================ RESTART ================================
+>>> 
+HOLA MUNDO.
+123 PROBANDO.
+
+HOY APRENDEREMOS ARCHIVOS.
+>>> ================================ RESTART ================================
+>>> 
+HOLA MUNDO.
+123 PROBANDO.
+
+HOY APRENDEREMOS ARCHIVOS.
+>>> archivo = open('ejemplo.txt')
+
+>>> archivo.read()
+'Hola mundo.\n123 probando.\n\nHoy aprenderemos archivos.'
+>>> archivo.read()
+''
+>>> ================================ RESTART ================================
+>>> 
+HOLA MUNDO.
+123 PROBANDO.
+
+HOY APRENDEREMOS ARCHIVOS.
+>>> "Pepito 1999/10/4 50 80 20\n"
+'Pepito 1999/10/4 50 80 20\n'
+>>> linea = "Pepito 1999/10/4 50 80 20\n"
+>>> linea.split()
+['Pepito', '1999/10/4', '50', '80', '20']
+>>> datos = linea.strip().split()
+>>> datos
+['Pepito', '1999/10/4', '50', '80', '20']
+>>> linea.split()[1]
+'1999/10/4'
+>>> def doble(x): return x + x
+
+>>> doble(10)
+20
+>>> map(doble, range(10))
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+>>> range(10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+>>> fecha = '1999/10/8'
+>>> fecha.split('/')
+['1999', '10', '8']
+>>> map(int, fecha.split('/'))
+[1999, 10, 8]
+>>> 
