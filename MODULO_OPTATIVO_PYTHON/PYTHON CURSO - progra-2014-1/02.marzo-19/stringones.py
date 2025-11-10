@@ -9,7 +9,6 @@ def decodificar_palabra_stringona(abreviada):
     # Recorrer la palabra abreviada de principio a fin
     while i < len(abreviada):
         # Paso 1: Leer el número de repeticiones
-        
         # Asumimos que la primera posición (abreviada[i]) es el dígito 
         # que representa el número de repeticiones.
         # Lo convertimos a entero.
@@ -21,7 +20,6 @@ def decodificar_palabra_stringona(abreviada):
             return "ERROR DE FORMATO"
 
         # Paso 2: Leer la letra a repetir
-        
         # La letra siempre estará en la posición siguiente a la del número.
         if i + 1 < len(abreviada):
             letra = abreviada[i+1]
@@ -31,13 +29,11 @@ def decodificar_palabra_stringona(abreviada):
             return "ERROR DE FORMATO"
         
         # Paso 3: Construir el segmento de la palabra original
-        
         # Añadir la letra repetida 'num_repeticiones' veces a la palabra original.
         # Multiplicar una cadena por un entero la repite (ej: 'p' * 4 = 'pppp').
         palabra_original += letra * num_repeticiones
         
         # Paso 4: Avanzar el índice
-        
         # Nos movemos dos posiciones: una por el número y otra por la letra.
         i += 2
         
