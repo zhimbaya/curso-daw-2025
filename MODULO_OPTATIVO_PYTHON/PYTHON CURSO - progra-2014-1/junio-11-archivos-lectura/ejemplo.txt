@@ -1,4 +1,0 @@
-Hola mundo.
-123 probando.
-
-Hoy aprenderemos archivos.
